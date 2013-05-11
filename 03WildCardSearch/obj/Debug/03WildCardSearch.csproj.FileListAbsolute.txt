@@ -1,0 +1,13 @@
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\bin\Debug\03WildCardSearch.exe.config
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\obj\Debug\03WildCardSearch.csprojResolveAssemblyReference.cache
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\bin\Debug\03WildCardSearch.exe
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\bin\Debug\03WildCardSearch.pdb
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\bin\Debug\ElasticSearchWithDotNet.dll
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\bin\Debug\Nest.dll
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\bin\Debug\ElasticSearchWithDotNet.pdb
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\bin\Debug\Nest.pdb
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\bin\Debug\Nest.xml
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\obj\Debug\03WildCardSearch.exe
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\03WildCardSearch\obj\Debug\03WildCardSearch.pdb

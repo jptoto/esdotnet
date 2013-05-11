@@ -1,0 +1,13 @@
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\bin\Debug\01CreateBasicIndex.exe.config
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\bin\Debug\01CreateBasicIndex.exe
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\bin\Debug\01CreateBasicIndex.pdb
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\bin\Debug\ElasticSearchWithDotNet.dll
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\bin\Debug\Nest.dll
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\bin\Debug\ElasticSearchWithDotNet.pdb
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\bin\Debug\Nest.pdb
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\bin\Debug\Nest.xml
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\obj\Debug\01CreateBasicIndex.csprojResolveAssemblyReference.cache
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\obj\Debug\01CreateBasicIndex.exe
+C:\Users\jtoto\projects\ElasticSearchWithDotNet\01CreateBasicIndex\obj\Debug\01CreateBasicIndex.pdb
