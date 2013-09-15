@@ -10,3 +10,16 @@ C:\Users\jtoto\projects\ElasticSearchWithDotNet\04FacetSearch\bin\Debug\Nest.xml
 C:\Users\jtoto\projects\ElasticSearchWithDotNet\04FacetSearch\bin\Debug\Newtonsoft.Json.xml
 C:\Users\jtoto\projects\ElasticSearchWithDotNet\04FacetSearch\obj\Debug\04FacetSearch.exe
 C:\Users\jtoto\projects\ElasticSearchWithDotNet\04FacetSearch\obj\Debug\04FacetSearch.pdb
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\bin\Debug\04FacetSearch.exe.config
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\obj\Debug\04FacetSearch.exe
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\obj\Debug\04FacetSearch.pdb
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\bin\Debug\04FacetSearch.exe
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\bin\Debug\04FacetSearch.pdb
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\bin\Debug\ElasticSearchWithDotNet.dll
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\bin\Debug\Nest.dll
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\bin\Debug\ElasticSearchWithDotNet.pdb
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\bin\Debug\Nest.pdb
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\bin\Debug\Nest.xml
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jtoto\projects\esdotnet\04FacetSearch\obj\Debug\04FacetSearch.csprojResolveAssemblyReference.cache

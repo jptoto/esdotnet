@@ -1,0 +1,13 @@
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\bin\Debug\05MatchPhraseSearch.exe.config
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\bin\Debug\05MatchPhraseSearch.exe
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\bin\Debug\05MatchPhraseSearch.pdb
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\bin\Debug\ElasticSearchWithDotNet.dll
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\bin\Debug\Nest.dll
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\bin\Debug\ElasticSearchWithDotNet.pdb
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\bin\Debug\Nest.pdb
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\bin\Debug\Nest.xml
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\obj\Debug\05MatchPhraseSearch.csprojResolveAssemblyReference.cache
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\obj\Debug\05MatchPhraseSearch.exe
+C:\Users\jtoto\projects\esdotnet\05MatchPhraseSearch\obj\Debug\05MatchPhraseSearch.pdb

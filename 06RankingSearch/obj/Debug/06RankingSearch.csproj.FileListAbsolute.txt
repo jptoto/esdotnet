@@ -1,0 +1,13 @@
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\obj\Debug\06RankingSearch.csprojResolveAssemblyReference.cache
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\bin\Debug\06RankingSearch.exe.config
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\bin\Debug\06RankingSearch.exe
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\bin\Debug\06RankingSearch.pdb
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\bin\Debug\ElasticSearchWithDotNet.dll
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\bin\Debug\Nest.dll
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\bin\Debug\ElasticSearchWithDotNet.pdb
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\bin\Debug\Nest.pdb
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\bin\Debug\Nest.xml
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\obj\Debug\06RankingSearch.exe
+C:\Users\jtoto\projects\esdotnet\06RankingSearch\obj\Debug\06RankingSearch.pdb

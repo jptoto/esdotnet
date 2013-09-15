@@ -23,9 +23,8 @@ namespace _02BasicSearch
 
             ///// ** Basic search with QueryString
             var searchResults = client.Search<Person>(s => s.Query(q => q.
-                QueryString(x => x.Query("Toto").
-                    OnField(of => of.LastName).
-                    Operator((Operator.and)))));
+                                                    QueryString(x => x.Query("toto").
+                                                                        OnField(of => of.LastName))));
 
             foreach (var result in searchResults.Documents)
             {

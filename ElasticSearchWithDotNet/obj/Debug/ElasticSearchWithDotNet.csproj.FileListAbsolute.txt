@@ -7,3 +7,13 @@ C:\Users\jtoto\projects\ElasticSearchWithDotNet\ElasticSearchWithDotNet\bin\Debu
 C:\Users\jtoto\projects\ElasticSearchWithDotNet\ElasticSearchWithDotNet\bin\Debug\Newtonsoft.Json.xml
 C:\Users\jtoto\projects\ElasticSearchWithDotNet\ElasticSearchWithDotNet\obj\Debug\ElasticSearchWithDotNet.dll
 C:\Users\jtoto\projects\ElasticSearchWithDotNet\ElasticSearchWithDotNet\obj\Debug\ElasticSearchWithDotNet.pdb
+C:\Users\jtoto\projects\esdotnet\ElasticSearchWithDotNet\bin\Debug\ElasticSearchWithDotNet.dll
+C:\Users\jtoto\projects\esdotnet\ElasticSearchWithDotNet\bin\Debug\ElasticSearchWithDotNet.pdb
+C:\Users\jtoto\projects\esdotnet\ElasticSearchWithDotNet\bin\Debug\Nest.dll
+C:\Users\jtoto\projects\esdotnet\ElasticSearchWithDotNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jtoto\projects\esdotnet\ElasticSearchWithDotNet\bin\Debug\Nest.pdb
+C:\Users\jtoto\projects\esdotnet\ElasticSearchWithDotNet\bin\Debug\Nest.xml
+C:\Users\jtoto\projects\esdotnet\ElasticSearchWithDotNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jtoto\projects\esdotnet\ElasticSearchWithDotNet\obj\Debug\ElasticSearchWithDotNet.dll
+C:\Users\jtoto\projects\esdotnet\ElasticSearchWithDotNet\obj\Debug\ElasticSearchWithDotNet.pdb
+C:\Users\jtoto\projects\esdotnet\ElasticSearchWithDotNet\obj\Debug\ElasticSearchWithDotNet.csprojResolveAssemblyReference.cache

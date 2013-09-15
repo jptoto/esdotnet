@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03WildCardSearch", "03WildC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04FacetSearch", "04FacetSearch\04FacetSearch.csproj", "{E484B672-3F3A-4C6F-B680-0A47F67A433D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05MatchPhraseSearch", "05MatchPhraseSearch\05MatchPhraseSearch.csproj", "{E66EBEEB-CBCA-491B-AC39-8C669F6BC06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06RankingSearch", "06RankingSearch\06RankingSearch.csproj", "{8A7B6422-C55A-4CAB-8F87-873CF1D235AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,14 @@ Global
 		{E484B672-3F3A-4C6F-B680-0A47F67A433D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E484B672-3F3A-4C6F-B680-0A47F67A433D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E484B672-3F3A-4C6F-B680-0A47F67A433D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66EBEEB-CBCA-491B-AC39-8C669F6BC06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66EBEEB-CBCA-491B-AC39-8C669F6BC06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66EBEEB-CBCA-491B-AC39-8C669F6BC06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66EBEEB-CBCA-491B-AC39-8C669F6BC06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7B6422-C55A-4CAB-8F87-873CF1D235AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7B6422-C55A-4CAB-8F87-873CF1D235AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7B6422-C55A-4CAB-8F87-873CF1D235AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7B6422-C55A-4CAB-8F87-873CF1D235AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,7 +15,7 @@ namespace _04FacetSearch
 
         static void Main(string[] args)
         {
-            elasticSettings = new ConnectionSettings(new Uri("http://home-win8:9200"))
+            elasticSettings = new ConnectionSettings(new Uri("http://127.0.0.1:9200"))
             .SetDefaultIndex("people");
 
             client = new ElasticClient(elasticSettings);
@@ -70,7 +70,6 @@ namespace _04FacetSearch
             Console.WriteLine("Min: {0}", facet.Min);
             Console.WriteLine("Std Dev: {0}", facet.StandardDeviation);
             Console.WriteLine("Total: {0}", facet.Total);
-            Console.WriteLine("Variance: {0}", facet.Variance);
 
             Console.ReadKey();
 

@@ -11,3 +11,16 @@ C:\Users\jtoto\projects\ElasticSearchWithDotNet\02BasicSearch\bin\Debug\Newtonso
 C:\Users\jtoto\projects\ElasticSearchWithDotNet\02BasicSearch\obj\Debug\02BasicSearch.exe
 C:\Users\jtoto\projects\ElasticSearchWithDotNet\02BasicSearch\obj\Debug\02BasicSearch.pdb
 C:\Users\jtoto\projects\ElasticSearchWithDotNet\02BasicSearch\obj\Debug\02BasicSearch.csprojResolveAssemblyReference.cache
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\bin\Debug\02BasicSearch.exe.config
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\bin\Debug\02BasicSearch.exe
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\bin\Debug\02BasicSearch.pdb
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\bin\Debug\ElasticSearchWithDotNet.dll
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\bin\Debug\Nest.dll
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\bin\Debug\ElasticSearchWithDotNet.pdb
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\bin\Debug\Nest.pdb
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\bin\Debug\Nest.xml
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\obj\Debug\02BasicSearch.csprojResolveAssemblyReference.cache
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\obj\Debug\02BasicSearch.exe
+C:\Users\jtoto\projects\esdotnet\02BasicSearch\obj\Debug\02BasicSearch.pdb

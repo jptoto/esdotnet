@@ -24,12 +24,12 @@ namespace _01CreateBasicIndex
             // Create an index
             client.CreateIndex("people", c => c
                                                     .NumberOfReplicas(0)
-                                                    .NumberOfShards(1)
+                                                    .NumberOfShards(4)
                                                     .AddMapping<Person>(m => m.MapFromAttributes()));
 
 
             // Add some people
-            var jp = new Person {FirstName = "JP", LastName = "Toto", Age = 37, Message = "OMG yay ES!", Sex = "Male"};
+            var jp = new Person {FirstName = "JP", LastName = "Smith", Age = 37, Message = "OMG yay ES!", Sex = "Male"};
             var matt = new Person { FirstName = "Matt", LastName = "Toto", Age = 32, Message = "I'm JPs brother", Sex = "Male" };
             var christine = new Person { FirstName = "Christine", LastName = "Toto", Age = 0, Message = "I'm JPs wife", Sex = "Female" };
             var kevin = new Person { FirstName = "Kevin", LastName = "Toto", Age = 26, Message = "I'm JPs other brother", Sex = "Male" };

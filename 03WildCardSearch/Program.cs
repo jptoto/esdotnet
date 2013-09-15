@@ -15,7 +15,7 @@ namespace _03WildCardSearch
 
         static void Main(string[] args)
         {
-            elasticSettings = new ConnectionSettings(new Uri("http://home-win8:9200"))
+            elasticSettings = new ConnectionSettings(new Uri("http://127.0.0.1:9200"))
             .SetDefaultIndex("people");
 
             client = new ElasticClient(elasticSettings);
@@ -41,8 +41,8 @@ namespace _03WildCardSearch
                                                             .String(s => s
                                                                 .Name(p => p.LastName))));
 
-            // Add some people
-            var jp = new Person { FirstName = "JP", LastName = "Toto", Age = 37, Message = "OMG yay ES!", Sex = "Male" };
+            //Add some people
+            var jp = new Person { FirstName = "JP", LastName = "Smith", Age = 37, Message = "OMG yay ES!", Sex = "Male" };
             var matt = new Person { FirstName = "Matt", LastName = "Toto", Age = 32, Message = "I'm JPs brother", Sex = "Male" };
             var christine = new Person { FirstName = "Christine", LastName = "Toto", Age = 0, Message = "I'm JPs wife", Sex = "Female" };
             var kevin = new Person { FirstName = "Kevin", LastName = "Toto", Age = 26, Message = "I'm JPs other brother", Sex = "Male" };
@@ -52,13 +52,17 @@ namespace _03WildCardSearch
             client.Index(christine);
             client.Index(kevin);
 
+            client.Refresh();
+
 
             ///// ** Wildcard search
             var searchResults = client.Search<Person>(s => s
-                            .Query(q => q
-                                .Wildcard(f => f.Message, "omg*")
-                            )
-                        );
+                .From(0)
+                .Size(10)
+                .Query(q => q
+                    .Wildcard(f => f.LastName, "to*", Boost: 1.0)
+                )
+            );
 
             foreach (var result in searchResults.Documents)
             {
